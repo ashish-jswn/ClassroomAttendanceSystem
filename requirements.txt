@@ -1,0 +1,7 @@
+opencv-python
+opencv-python-headless
+numpy
+torch
+torchvision
+face recognition
+

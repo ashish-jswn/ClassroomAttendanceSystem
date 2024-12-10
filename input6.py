@@ -1,0 +1,1 @@
+face_distances = face_recognition.face_distance(student_data['encodings'], face_encoding)
